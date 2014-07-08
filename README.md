@@ -1,4 +1,5 @@
 swift
 =====
 
-swift
+Introducing Swift
+https://developer.apple.com/swift/
